@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Az-en (or just zen A-zen didnt work)
+- just learning stuff and seeing what goes on with github
