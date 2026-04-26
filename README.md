@@ -7,7 +7,6 @@ I'm a passionate full-stack developer currently pursuing my Bachelor's in Softwa
 ### 🚀 About Me
 * 🎓 **Education:** Software Engineering undergrad (Class of 2027) at ITU.
 * 💻 **Experience:** Previously worked as a MERN Stack Developer Intern, where I honed my skills in backend API design and responsive frontends.
-* 🛠️ **What I'm building:** Currently focused on microservice architectures (handling auth, earnings, and anomaly detection) and managing mono-repos. 
 * 🌱 **Always learning:** Expanding my knowledge in system security, DevOps, and the fundamentals of machine learning.
 
 ### 💻 Tech Stack & Tools
@@ -25,9 +24,6 @@ I'm a passionate full-stack developer currently pursuing my Bachelor's in Softwa
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📈 GitHub Stats
-[![Azfar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-* **Portfolio/Email:** [Your Email or Website]
+* **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/azfar-umar-9515ab2b0/))
